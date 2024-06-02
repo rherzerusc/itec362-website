@@ -28,7 +28,7 @@ h1{
     color: black;
     text-shadow: -2px -2px 5px lightgray;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 40px;
     text-transform: uppercase;
     /*sets font, color, shadow to text, size, and ensures caps throughout*/
 }
@@ -78,7 +78,9 @@ form{
     /*sets font, color, size, and padding*/
 }
 
+
 input[type=submit] {
+    border: none;
     font-family: Tahoma, sans-serif;
     color: white;
     font-weight: bolder;
