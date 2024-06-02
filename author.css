@@ -83,7 +83,6 @@ input [type=submit]:hover {
     color: white;
     font-weight: bolder;
     width: 200px;
-    
-    background-color: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+    background: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
     /*sets font, color, size, and rainbow background to button when hovering*/
 }
