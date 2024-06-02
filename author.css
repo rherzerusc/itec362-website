@@ -38,7 +38,7 @@ h2{
     color:white;
     text-shadow: -2px -2px 5px black;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 15px;
     text-transform: uppercase;
     /*sets font, color, shadow to text, size, and ensures caps throughout*/
 }
