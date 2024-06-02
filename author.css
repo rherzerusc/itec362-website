@@ -3,6 +3,7 @@ header{
     color: black;
     display: flex;
     position: relative;
+    justify-content: space-between;
     /*sets font, color, display, and position*/
 }
 
@@ -10,7 +11,7 @@ header{
 nav{
     font-family: Tahoma, sans-serif;
     color: black;
-    font-size: 25px;
+    font-size: 15px;
     text-transform: uppercase;
     /*sets font, color, size, and ensures caps throughout*/
 }
@@ -27,9 +28,9 @@ h1{
 h2{
     font-family: Tahoma, sans-serif;
     color:white;
-    text-shadow: -2px -2px 5px black;
+    /*text-shadow: -2px -2px 5px black;*/
     font-weight: bold;
-    font-size: 30px;
+    font-size: 20px;
     text-transform: uppercase;
     /*sets font, color, shadow to text, size, and ensures caps throughout*/
 }
