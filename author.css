@@ -78,7 +78,7 @@ form{
     /*sets font, color, size, and padding*/
 }
 
-input [type=submit]:hover {
+input[type=submit]:hover {
     font-family: Tahoma, sans-serif;
     color: white;
     font-weight: bolder;
