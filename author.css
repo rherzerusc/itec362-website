@@ -1,0 +1,80 @@
+header{
+    font-family: Tahoma, sans-serif;
+    color: black;
+    display: flex;
+    position: relative;
+    /*sets font, color, display, and position*/
+}
+
+
+nav{
+    font-family: Tahoma, sans-serif;
+    color: black;
+    font-size: 25px;
+    text-transform: uppercase;
+    /*sets font, color, size, and ensures caps throughout*/
+}
+h1{
+    font-family: Tahoma, sans-serif;
+    color: black;
+    text-shadow: -2px -2px 5px lightgray;
+    font-weight: bold;
+    font-size: 35px;
+    text-transform: uppercase;
+    /*sets font, color, shadow to text, size, and ensures caps throughout*/
+}
+
+h2{
+    font-family: Tahoma, sans-serif;
+    color:white;
+    text-shadow: -2px -2px 5px black;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: uppercase;
+    /*sets font, color, shadow to text, size, and ensures caps throughout*/
+}
+
+h3 {
+    font-family: Tahoma, sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    /*sets font, color, size, and weight*/
+}
+
+div{
+    font-family: Tahoma, sans-serif;
+    /*sets font*/
+}
+
+p{
+    font-family: Tahoma, sans-serif;
+    color: black;
+    font-size: 15px;
+    /*sets font, color, and size*/
+}
+
+.square-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    /*makes images on landing page square*/
+}
+
+form{
+    font-family: Tahoma, sans-serif;
+    color: black;
+    font-size: 15px;
+    padding: 10px;
+    /*sets font, color, size, and padding*/
+}
+
+input [type=submit] {
+    font-family: Tahoma, sans-serif;
+    color: white;
+    font-weight: bolder;
+    width: 200px;
+    
+    background: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+    /*sets font, color, size, and rainbow background to button*/
+}
