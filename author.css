@@ -7,6 +7,14 @@ header{
     /*sets font, color, display, and position*/
 }
 
+footer{
+    font-family: Tahoma, sans-serif;
+    color: black;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    /*sets font, color, display, and position*/
+}
 
 nav{
     font-family: Tahoma, sans-serif;
@@ -70,12 +78,12 @@ form{
     /*sets font, color, size, and padding*/
 }
 
-input [type=submit] {
+input [type=submit]:hover {
     font-family: Tahoma, sans-serif;
     color: white;
     font-weight: bolder;
     width: 200px;
     
-    background: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
-    /*sets font, color, size, and rainbow background to button*/
+    background-color: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+    /*sets font, color, size, and rainbow background to button when hovering*/
 }
