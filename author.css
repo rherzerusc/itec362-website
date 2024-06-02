@@ -27,27 +27,27 @@ h1{
     font-family: Tahoma, sans-serif;
     color: black;
     text-shadow: -2px -2px 5px lightgray;
-    font-weight: bold;
     font-size: 40px;
+    font-weight: bold;
     text-transform: uppercase;
-    /*sets font, color, shadow to text, size, and ensures caps throughout*/
+    /*sets font, color, shadow to text, size, weight, and ensures caps throughout*/
 }
 
 h2{
     font-family: Tahoma, sans-serif;
     color:white;
     text-shadow: -2px -2px 5px black;
-    font-weight: bold;
     font-size: 25px;
+    font-weight: bold;
     text-transform: uppercase;
-    /*sets font, color, shadow to text, size, and ensures caps throughout*/
+    /*sets font, color, shadow to text, size, weight, and ensures caps throughout*/
 }
 
 h3 {
     font-family: Tahoma, sans-serif;
     color: black;
-    font-weight: bold;
     font-size: 25px;
+    font-weight: bold;
     /*sets font, color, size, and weight*/
 }
 
@@ -67,7 +67,7 @@ p{
     width: 300px;
     height: 300px;
     object-fit: cover;
-    /*makes images on landing page square*/
+    /*makes images on landing page 300x300px squares*/
 }
 
 form{
@@ -86,5 +86,5 @@ input[type=submit] {
     font-weight: bolder;
     width: 200px;
     background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
-    /*sets font, color, size, and rainbow background to button*/
+    /*removes button border, sets font, color, size, and rainbow background to button*/
 }
