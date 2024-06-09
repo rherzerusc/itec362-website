@@ -101,6 +101,10 @@ input[type=submit] {
     padding: 15px;    
 }    
 
+.aboutAuthor img {
+    margin: 15px;
+}
+
 .pics {
     display: flex;
     justify-content: space-evenly;
