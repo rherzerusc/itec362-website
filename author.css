@@ -104,3 +104,9 @@ input[type=submit] {
 .connectWith {
     display: flex;
     justify-content: space-around;}
+
+.wipContent h3 {
+    margin-bottom: 10px;}
+
+.wipContent p {
+    margin-top: 10px;}
