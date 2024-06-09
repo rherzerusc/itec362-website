@@ -95,17 +95,13 @@ input[type=submit] {
 
 .aboutAuthor {
     display: flex;
-    justify-content: center;}
-
-.aboutAuthor {
-    display: flex;
-    justify-content: space-evenly;}    
-
-.connectWith {
-    display: flex;
-    justify-content: space-around;}
-
+    justify-content: center;}    
+    
 .pics {
     display: flex;
     justify-content: space-evenly;
 }
+.connectWith {
+    display: flex;
+    justify-content: space-around;}
+
