@@ -23,6 +23,7 @@ nav{
     text-transform: uppercase;
     /*sets font, color, size, and ensures caps throughout*/
 }
+
 h1{
     font-family: Tahoma, sans-serif;
     color: black;
@@ -91,16 +92,20 @@ input[type=submit] {
 
 .indexImages {
     display: flex;
-    justify-content: space-evenly;}
+    justify-content: space-evenly;
+}
 
 .aboutAuthor {
     display: flex;
-    justify-content: center;}    
-    
+    justify-content: center;
+    padding: 15px;    
+}    
+
 .pics {
     display: flex;
     justify-content: space-evenly;
 }
+
 .connectWith {
     display: flex;
     justify-content: space-around;}
