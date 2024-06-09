@@ -94,8 +94,11 @@ input[type=submit] {
     display: flex;
     justify-content: space-evenly;
 }
+
 .indexImages > div {
     text-align: center;
+    margin-top: 10px; 
+    flex-basis: 150px; 
 }
 
 .aboutAuthor {
