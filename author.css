@@ -98,11 +98,7 @@ input[type=submit] {
 .aboutAuthor {
     display: flex;
     justify-content: center;
-    padding: 15px;    
-}    
-
-.aboutAuthor img {
-    margin: 15px;
+    gap: 15px;    
 }
 
 .pics {
