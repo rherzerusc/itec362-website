@@ -107,7 +107,8 @@ input[type=submit] {
 .aboutAuthor {
     display: flex;
     justify-content: center;
-    gap: 25px;  
+    gap: 25px; 
+    padding: 25px; 
 }
 
 .pics {
