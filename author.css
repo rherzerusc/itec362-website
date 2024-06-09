@@ -94,6 +94,9 @@ input[type=submit] {
     display: flex;
     justify-content: space-evenly;
 }
+.indexImages > div {
+    text-align: center;
+}
 
 .aboutAuthor {
     display: flex;
