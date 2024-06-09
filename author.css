@@ -88,3 +88,19 @@ input[type=submit] {
     background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
     /*removes button border, sets font, color, size, and rainbow background to button*/
 }
+
+.indexImages {
+    display: flex;
+    justify-content: space-evenly;}
+
+.aboutAuthor {
+    display: flex;
+    justify-content: center;}
+
+.aboutAuthor {
+    display: flex;
+    justify-content: space-evenly;}    
+
+.connectWith {
+    display: flex;
+    justify-content: space-around;}
