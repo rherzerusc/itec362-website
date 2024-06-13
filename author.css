@@ -36,8 +36,8 @@ h1{
 
 h2{
     font-family: Tahoma, sans-serif;
-    color: black;
-    text-shadow: -2px -2px 5px black;
+    color:black;
+    text-shadow: -2px -2px 5px lightgray;
     font-size: 25px;
     font-weight: bold;
     text-transform: uppercase;
@@ -125,3 +125,18 @@ input[type=submit] {
     display: flex;
     justify-content: space-around;}
 
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    text-align: center;
+    width: 100%;
+    }
